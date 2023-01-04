@@ -31,7 +31,7 @@ header > h1 {
     padding-top: 50px;
     font-variant: small-caps;
     font-family:var(--fonte2);
-    font-size: 5vw;
+    font-size: 6vw;
 }
 
 header > p {
@@ -91,6 +91,7 @@ section#img01 {
 
 section#img02 {
     background-image: url(../imagens/background002.jpg);
+    background-position: bottom right;
     
 }
 
