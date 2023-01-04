@@ -68,8 +68,9 @@ section.imagem {
 }
 
 section.imagem > p {
-    width: 400px;
+   padding: 5px;
     background-color: rgba(0, 0, 0, 0.253);
+    display: inline-block;
 }
 
 footer {
